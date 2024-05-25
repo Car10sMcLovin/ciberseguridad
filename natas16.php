@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 $caracteres_disponibles = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 $longitud_caracteres = strlen($caracteres_disponibles);
