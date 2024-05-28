@@ -5,7 +5,7 @@ $longitud_caracteres = strlen($caracteres_disponibles);
 
 $caracteres_filtrados = "";
 $contrasena_final = "";
-
+ 
 # Conexión a natas16 usando cURL
 $conexion = curl_init();
 
